@@ -1,1 +1,1 @@
-# AWS_StockPrice_Analysis_Using_HIve_and_Pig
+# AWS_StockPrice_Analysis_Using_Hive_and_Pig
