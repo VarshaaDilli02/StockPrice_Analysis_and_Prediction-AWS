@@ -1,0 +1,2 @@
+select max(open) as MaximumOpenPrice
+from aws;

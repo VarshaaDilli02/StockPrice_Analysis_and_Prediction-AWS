@@ -1,0 +1,2 @@
+load data inpath '/Project/Input/aws.txt' overwrite into table aws;
+

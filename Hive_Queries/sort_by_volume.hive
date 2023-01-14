@@ -1,0 +1,2 @@
+select dte, volume from aws
+sort by volume;

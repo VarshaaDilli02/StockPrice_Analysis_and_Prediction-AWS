@@ -1,0 +1,2 @@
+select min(open) as MinimumOpenPrice
+from aws;

@@ -1,0 +1,2 @@
+alter table aws
+change column dt dte string;
