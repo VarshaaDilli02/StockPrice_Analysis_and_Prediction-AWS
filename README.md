@@ -1,3 +1,20 @@
 # StockPrice_Analysis_and_Prediction-AWS
 
-Amazon.com, Inc. provides services for online retail buying. The Amazon stock price data has information about the stock prices that is taken from Kaggle. The dataset has stock prices from 1997 to 2021 , which has 7 columns and 7000 rows which is used for analysis. The dataset has the following attributes: date, high price, low price, opening price, closing price, volume, adjusted closing price. The scope of the project is to analyse the various aspects of dataset by implementing different queries such as  as  count, sum, max, min to find values from the attributes.  Pig and hive techniques in Hadoop have been used to analyse the result. This study is beneficial for traders and investors since it helps them determine the degree of price change, which in turn aids in comprehending market buying and selling situations by identifying support and resistance levels. The conclusions drawn from the analysis will enable us to analyse our past years data and get an idea about how the future data will be. Also, to find out the suitable Machine Learning Algorithm to predict the stock values for the future and hence make forecasting.
+Stock market prediction and analysis are some of the most difficult jobs to complete. There are numerous causes for this, including market volatility and a variety of other dependent and independent variables that influence the value of a certain stock in the market. This project will walk through a simple implementation of analyzing and forecasting the stock prices of a Popular Worldwide Online Retail Store in Python using various Machine Learning Algorithms.
+
+Aim:
+To analyse the stock prices over the years through the AWS dataset and estimate the stock value using one of the best machine learning model.
+
+Dataset:
+•	The dataset was downloaded from Kaggle.
+•	The attributes include date, high price, low price, opening price, closing price, volume, adjusted closing price. 
+
+Tools & Technologies Used:
+•	Pyspark
+•	Pig
+•	Hive
+
+Concepts Used:
+•	ML model - LSTM
+•	Querying in Pig & Hive
+
