@@ -6,7 +6,9 @@ Aim:
 To analyse the stock prices over the years through the AWS dataset and estimate the stock value using one of the best machine learning model.
 
 Dataset:
+
 •	The dataset was downloaded from Kaggle.
+
 •	The attributes include date, high price, low price, opening price, closing price, volume, adjusted closing price. 
 
 Tools & Technologies Used:
