@@ -29,3 +29,7 @@ CONCEPTS USED:
 
 •	Querying in Pig & Hive
 
+FUTURE SCOPE:
+
+To compare the results with many other machine learning models and test their differences.
+
