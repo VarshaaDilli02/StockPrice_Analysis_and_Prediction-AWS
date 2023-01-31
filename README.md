@@ -4,7 +4,7 @@ Stock market prediction and analysis are some of the most difficult jobs to comp
 
 AIM:
 
-To analyse the stock prices over the years through the AWS dataset and estimate the stock value using one of the best machine learning model.
+To load the Amazon Stock Price dataset to HDFS, implement suitable queries in PIG and HIVE to analyse the Amazon Stock Price dataset and make predictions on the stock market using a appropriate Machine Learning Model to forecast the stock values. 
 
 
 DATASET:
